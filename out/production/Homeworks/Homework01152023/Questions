@@ -1,0 +1,10 @@
+1) Create an array of chars and store grades into it: A,B,C,D,E,F. Then print a grade B (use 2 different ways of creating an array).
+
+2) Create an array of names and store all names of your group. Then print your name from that array. (use 2 different ways of creating an array).
+
+3) Create an array of words: Java, Saturday, day, coding, is. Print the following sentence using elements of array: “Saturday is Java coding Day”.
+4) Create an array that can store names of cars and store 6 elements into it. Print all values from the array.
+
+5) Create an array of size 5 on integers and calculate the sum of all elements in an array.
+
+6) Create an array of countries. While retrieving all values from an array print capital for each country choose any five countries.
